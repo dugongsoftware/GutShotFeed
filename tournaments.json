@@ -4,6 +4,9 @@
     "buyin: 100.00,
     "fee": 10.00,
     "location": "Queens Arms Hotel",
-    "type": "No Limit Texas Holdem"
+    "type": "No Limit Texas Holdem",
+    "stack": 50000,
+    "levels": 20,
+    "rebuys": false
   }
 ]
