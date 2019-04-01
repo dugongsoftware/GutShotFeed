@@ -6,8 +6,9 @@
       "buyin": 100, 
       "levels": 20, 
       "location": "Queens Arms Hotel", 
-      "date": "30-03-2019 18:30", 
+      "time": "18:30", 
       "type": "No Limit Texas Holdem", 
-      "stack": 50000
+      "stack": 50000,
+      "cadence": "weekly"
     }
 ]
