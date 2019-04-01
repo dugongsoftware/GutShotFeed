@@ -6,7 +6,7 @@
       "buyin": 100, 
       "levels": 20, 
       "location": "Queens Arms Hotel", 
-      "time": "18:30", 
+      "start": "18:30", 
       "type": "No Limit Texas Holdem", 
       "stack": 50000,
       "cadence": "weekly"
