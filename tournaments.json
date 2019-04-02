@@ -8,6 +8,7 @@
       "location": "Queens Arms Hotel", 
       "start": "18:30", 
       "type": "No Limit Texas Holdem", 
-      "stack": 50000
+      "stack": 50000,
+      "frequency": "weekly"
   }
 ]
