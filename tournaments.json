@@ -9,6 +9,39 @@
       "start": "18:30", 
       "type": "No Limit Texas Holdem", 
       "stack": 50000,
-      "cadence": "weekly"
-    }
+      "dates": {
+        "cadance": "weekly"
+        "value": 1
+      }
+  },
+  {
+      "fee": 10, 
+      "name": "Tuesday Monthly", 
+      "rebuys": false, 
+      "buyin": 200, 
+      "levels": 20, 
+      "location": "Queens Arms Hotel", 
+      "start": "18:30", 
+      "type": "No Limit Texas Holdem", 
+      "stack": 50000,
+      "dates": {
+        "cadance": "monthly"
+        "value": 15
+      }
+  },
+  {
+      "fee": 10, 
+      "name": "Christmas Eve", 
+      "rebuys": false, 
+      "buyin": 200, 
+      "levels": 20, 
+      "location": "Queens Arms Hotel", 
+      "start": "18:30", 
+      "type": "No Limit Texas Holdem", 
+      "stack": 50000,
+      "dates": {
+        "cadance": "once"
+        "value": 2019-12-24
+      }
+  }
 ]
