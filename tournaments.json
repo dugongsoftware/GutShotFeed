@@ -9,8 +9,8 @@
       "start": "18:30", 
       "type": "No Limit Texas Holdem", 
       "stack": 50000,
-      "dates": {
-        "cadance": "weekly"
+      "cadance": {
+        "frequency": "weekly",
         "value": 1
       }
   },
@@ -24,8 +24,8 @@
       "start": "18:30", 
       "type": "No Limit Texas Holdem", 
       "stack": 50000,
-      "dates": {
-        "cadance": "monthly"
+      "cadance": {
+        "frequency": "monthly",
         "value": 15
       }
   },
@@ -39,8 +39,8 @@
       "start": "18:30", 
       "type": "No Limit Texas Holdem", 
       "stack": 50000,
-      "dates": {
-        "cadance": "once"
+      "cadance": {
+        "frequency": "once",
         "value": 2019-12-24
       }
   }
