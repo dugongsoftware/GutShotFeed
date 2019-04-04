@@ -10,5 +10,6 @@
       "type": "No Limit Texas Holdem", 
       "stack": 50000,
       "frequency": "weekly"
+      "f_value": 1
   }
 ]
