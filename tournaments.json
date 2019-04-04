@@ -13,7 +13,7 @@
       "frequency": "weekly",
       "f_value": 2
   },
-    {
+  {
       "fee": 10, 
       "name": "Thursday", 
       "rebuys": false,
