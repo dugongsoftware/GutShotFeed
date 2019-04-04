@@ -9,7 +9,7 @@
       "start": "18:30", 
       "type": "No Limit Texas Holdem", 
       "stack": 50000,
-      "frequency": "weekly"
+      "frequency": "weekly",
       "f_value": 1
   }
 ]
