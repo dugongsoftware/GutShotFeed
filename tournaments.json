@@ -1,7 +1,7 @@
 [
   {
       "fee": 10, 
-      "name": "Monday", 
+      "name": "Monday 40,000 Stack 15min levels", 
       "rebuys": false,
       "addons": false,
       "buyin": 100, 
@@ -9,7 +9,7 @@
       "location": "Queens Arms Hotel", 
       "start": "18:10", 
       "type": "No Limit Texas Holdem", 
-      "stack": 4000,
+      "stack": 40000,
       "frequency": "weekly",
       "f_value": 2
   },
@@ -23,7 +23,7 @@
       "location": "Queens Arms Hotel", 
       "start": "18:10", 
       "type": "No Limit Texas Holdem", 
-      "stack": 4000,
+      "stack": 40000,
       "frequency": "weekly",
       "f_value": 5
   }
