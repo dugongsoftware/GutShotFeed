@@ -1,15 +1,30 @@
 [
   {
       "fee": 10, 
-      "name": "Monday night poker", 
-      "rebuys": false, 
+      "name": "Monday", 
+      "rebuys": false,
+      "addons": false,
       "buyin": 100, 
-      "levels": 20, 
+      "levels": 15, 
       "location": "Queens Arms Hotel", 
-      "start": "18:30", 
+      "start": "18:10", 
       "type": "No Limit Texas Holdem", 
-      "stack": 50000,
+      "stack": 4000,
       "frequency": "weekly",
       "f_value": 2
+  },
+    {
+      "fee": 10, 
+      "name": "Thursday", 
+      "rebuys": false,
+      "addons": false,
+      "buyin": 50, 
+      "levels": 15, 
+      "location": "Queens Arms Hotel", 
+      "start": "18:10", 
+      "type": "No Limit Texas Holdem", 
+      "stack": 4000,
+      "frequency": "weekly",
+      "f_value": 5
   }
 ]
