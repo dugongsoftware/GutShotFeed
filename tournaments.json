@@ -1,7 +1,7 @@
 [
   {
       "fee": 10, 
-      "name": "Monday $100 + $10", 
+      "name": "Monday NLHE $100 + $10", 
       "rebuys": false,
       "addons": false,
       "buyin": 100, 
@@ -15,7 +15,7 @@
   },
   {
       "fee": 10, 
-      "name": "Thursday $50 + $10", 
+      "name": "Thursday NLHE $50 + $10", 
       "rebuys": false,
       "addons": false,
       "buyin": 50, 
