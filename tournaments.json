@@ -26,5 +26,19 @@
       "stack": 40000,
       "frequency": "weekly",
       "f_value": 5
+  },
+    {
+      "fee": 0, 
+      "name": "Money Maker Launch $3,000 GTD", 
+      "rebuys": false,
+      "addons": false,
+      "buyin": 23, 
+      "levels": 15, 
+      "location": "Acacia Hotel", 
+      "start": "19:00", 
+      "type": "No Limit Texas Holdem", 
+      "stack": 40000,
+      "frequency": "once",
+      "f_value": "2019/04/05 19:00"
   }
 ]
