@@ -43,7 +43,7 @@
   },
   {
       "fee": 0, 
-      "name": "Jasons Birthday Game $1,000 GTD", 
+      "name": "Jason's Birthday Game $1,000 GTD", 
       "rebuys": true,
       "addons": true,
       "buyin": 13, 
@@ -54,5 +54,19 @@
       "stack": 40000,
       "frequency": "once",
       "f_value": "2019/04/07 18:00"
+  },
+  {
+      "fee": 0, 
+      "name": "Thursday Night", 
+      "rebuys": true,
+      "addons": true,
+      "buyin": 13, 
+      "levels": 15, 
+      "location": "Acacia Ridge Hotel", 
+      "start": "19:00", 
+      "type": "No Limit Texas Holdem", 
+      "stack": 25000,
+      "frequency": "weekly",
+      "f_value": 5
   }
 ]
