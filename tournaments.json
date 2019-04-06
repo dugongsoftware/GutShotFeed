@@ -68,5 +68,33 @@
       "stack": 25000,
       "frequency": "weekly",
       "f_value": 5
+  },
+  {
+      "fee": 0, 
+      "name": "Freeroll Event $1,000 GTD", 
+      "rebuys": true,
+      "addons": true,
+      "buyin": 0, 
+      "levels": 15, 
+      "location": "Seagulls Club, Golland Drive Tweed Heads West NSW", 
+      "start": "12:00", 
+      "type": "No Limit Texas Holdem", 
+      "stack": 40000,
+      "frequency": "once",
+      "f_value": "2019/04/11 12:00"
+  },
+  {
+      "fee": 5, 
+      "name": "Deep Stack Event $2,000 GTD", 
+      "rebuys": true,
+      "addons": true,
+      "buyin": 30, 
+      "levels": 15, 
+      "location": "Seagulls Club, Golland Drive Tweed Heads West NSW", 
+      "start": "19:00", 
+      "type": "No Limit Texas Holdem", 
+      "stack": 40000,
+      "frequency": "once",
+      "f_value": "2019/04/11 19:00"
   }
 ]
