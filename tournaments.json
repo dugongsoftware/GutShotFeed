@@ -96,5 +96,19 @@
       "stack": 40000,
       "frequency": "once",
       "f_value": "2019/04/11 19:00"
+  },
+  {
+      "fee": 10, 
+      "name": "Thursday NLHE $50 + $10", 
+      "rebuys": false,
+      "addons": false,
+      "buyin": 300, 
+      "levels": 45, 
+      "location": "Queen's Arms Hotel", 
+      "start": "12:00", 
+      "type": "No Limit Texas Holdem", 
+      "stack": 40000,
+      "frequency": "once",
+      "f_value": "2019/04/21 12:00"
   }
 ]
