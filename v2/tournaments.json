@@ -2,6 +2,7 @@
   {
       "fee": 10, 
       "name": "Monday NLHE $100 + $10", 
+      "description": "Monday NLHE $100 + $10", 
       "rebuys": 0,
       "addons": 0,
       "buyin": 100, 
@@ -17,7 +18,8 @@
   },
   {
       "fee": 10, 
-      "name": "Thursday NLHE $50 + $10", 
+      "name": "Thursday NLHE $50 + $10",
+      "description": "Thursday NLHE $50 + $10", 
       "rebuys": 0,
       "addons": 0,
       "buyin": 50, 
@@ -33,7 +35,8 @@
   },  
   {
       "fee": 0, 
-      "name": "Money Maker Launch $3,000 GTD", 
+      "name": "Money Maker Launch $3,000 GTD",
+      "description": "",
       "rebuys": 0,
       "addons": 0,
       "buyin": 23, 
@@ -49,7 +52,8 @@
   },
   {
       "fee": 0, 
-      "name": "Jason's Birthday Game $1,000 GTD", 
+      "name": "Jason's Birthday Game $1,000 GTD",
+      "description": "",
       "rebuys": 10,
       "addons": 10,
       "buyin": 13, 
@@ -66,6 +70,7 @@
   {
       "fee": 0, 
       "name": "Thursday Night", 
+      "description": "",
       "rebuys": true,
       "addons": true,
       "buyin": 13, 
@@ -82,6 +87,7 @@
   {
       "fee": 0, 
       "name": "Freeroll Event $1,000 GTD", 
+      "description": "",
       "rebuys": 10,
       "addons": 10,
       "buyin": 0, 
@@ -95,7 +101,8 @@
   },
   {
       "fee": 5, 
-      "name": "Deep Stack Event $2,000 GTD", 
+      "name": "Deep Stack Event $2,000 GTD",
+      "description": "",
       "rebuys": 10,
       "addons": 10,
       "buyin": 30, 
@@ -111,7 +118,8 @@
   },
   {
       "fee": 10, 
-      "name": "Thursday NLHE $50 + $10", 
+      "name": "Thursday NLHE $50 + $10",
+      "description": "",
       "rebuys": 0,
       "addons": 0,
       "buyin": 300, 
